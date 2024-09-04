@@ -1,2 +1,2 @@
 # phi3_tuning
-Phi3 (7B) + fine-tuning for interaction classification
+Final model: https://huggingface.co/ChunB1/Phi-3-interact
